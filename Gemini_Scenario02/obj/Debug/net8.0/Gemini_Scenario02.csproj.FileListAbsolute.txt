@@ -1,0 +1,15 @@
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\bin\Debug\net8.0\Gemini_Scenario02.exe
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\bin\Debug\net8.0\Gemini_Scenario02.deps.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\bin\Debug\net8.0\Gemini_Scenario02.runtimeconfig.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\bin\Debug\net8.0\Gemini_Scenario02.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\bin\Debug\net8.0\Gemini_Scenario02.pdb
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.AssemblyInfoInputs.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.AssemblyInfo.cs
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.csproj.CoreCompileInputs.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.sourcelink.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\refint\Gemini_Scenario02.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.pdb
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\Gemini_Scenario02.genruntimeconfig.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Gemini_Scenario02\obj\Debug\net8.0\ref\Gemini_Scenario02.dll
