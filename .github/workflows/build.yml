@@ -50,15 +50,15 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin `
-            /k:"Avisenna21_Gemini_Scenario2" `
+            /k:"Avisenna21_Gemini_Scenario02" `
             /o:"avisenna21" `
             /d:sonar.token="${{ secrets.SONAR_TOKEN }}" `
             /d:sonar.host.url="https://sonarcloud.io" `
             /d:sonar.branch.name="main" `
             /d:sonar.exclusions="**/bin/**,**/obj/**,**/Migrations/**,**/*.Designer.cs,**/*.g.cs"
 
-          dotnet restore "Gemini_Scenario2/Gemini_Scenario02.sln"
-          dotnet build "Gemini_Scenario2/Gemini_Scenario02.sln" --no-incremental
+          dotnet restore "Gemini_Scenario02/Gemini_Scenario02.sln"
+          dotnet build "Gemini_Scenario02/Gemini_Scenario02.sln" --no-incremental
           dotnet test "Gemini_Scenario02/Gemini_Scenario02.sln" --no-build --verbosity normal
 
           .\.sonar\scanner\dotnet-sonarscanner end `
