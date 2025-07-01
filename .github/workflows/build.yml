@@ -50,7 +50,7 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin `
-            /k:"Avisenna21_Gemini_Scenario02" `
+            /k:"Avisenna21_Gemini_Scenario2" `
             /o:"avisenna21" `
             /d:sonar.token="${{ secrets.SONAR_TOKEN }}" `
             /d:sonar.host.url="https://sonarcloud.io" `
